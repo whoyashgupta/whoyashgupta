@@ -14,7 +14,7 @@ I've been learning to code for two years...
 <a href="https://www.github.com/whoyashgupta" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/whoyashgupta?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-(https://camo.githubusercontent.com/f0b6672766257f78d5e9608ae6aea2ffd11b0e03649f00587dcd72c308af8f11/68747470733a2f2f7777772e6469676974616c6f6e75732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f444f552d474946342e676966)
+![68747470733a2f2f7777772e6469676974616c6f6e75732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f444f552d474946342e676966](https://user-images.githubusercontent.com/125174974/234524149-f9f941e8-9766-4364-ad5f-b02e422cf650.gif)
 
 ### Skills
 
