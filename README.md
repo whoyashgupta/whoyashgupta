@@ -8,13 +8,11 @@ I've been learning to code for two years...
 
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [connect.yash15@gmail.com](mailto:connect.yash15@gmail.com)
-* 🧠  I'm learning Devops and Python Programming
+* 🧠  I'm learning Full stack Development and Devops.
 * 🤝  I'm open to collaborating on interesting Open Source Projects
 
 <a href="https://www.github.com/whoyashgupta" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/whoyashgupta?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-![68747470733a2f2f7777772e6469676974616c6f6e75732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f444f552d474946342e676966](https://user-images.githubusercontent.com/125174974/234524149-f9f941e8-9766-4364-ad5f-b02e422cf650.gif)
 
 ### Skills
 
