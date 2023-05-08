@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yash Gupta
 ==================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1891F7&width=435&lines=Learning+Full+Stack+Development;Devops+%2B+cloud+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=804477&width=435&lines=Learning+Full+Stack+Development;Devops+%2B+cloud+Engineer)](https://git.io/typing-svg)
 ----------------------------------
 
 I've been learning to code for two years...
